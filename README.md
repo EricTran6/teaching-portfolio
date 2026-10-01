@@ -1,6 +1,6 @@
 # Teaching Programming Portfolio
 
-My teaching programming portfolio for EDS 124BR (Fall 2026), connecting computing education to applied AI engineering.
+My teaching programming portfolio: videos, lessons, and projects on teaching programming to beginners.
 
 **Live site:** https://erictran6.github.io/teaching-portfolio/
 
